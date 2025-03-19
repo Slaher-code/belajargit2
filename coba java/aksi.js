@@ -7,4 +7,6 @@ console.log(pengurangan(4,2));
 const perkalian = (a,b) => a * b;
 console.log(perkalian(2,2));
 console.log("Yang benar");
-console,log("aku berikan tambahan");
+console.log("aku berikan tambahan");
+console.log("aku berikan tambahan lagi");
+
